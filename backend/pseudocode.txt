@@ -1,0 +1,8 @@
+# Registrar Usuario
+function registrarUsuario(nombre, correo, carnet)
+
+# Registrar Libro
+function registrarLibro(isbn, titulo, autor, copias)
+
+# Registrar Préstamo
+function registrarPrestamo(usuarioId, libroId)
