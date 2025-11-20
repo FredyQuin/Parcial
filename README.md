@@ -5,7 +5,7 @@ Proyecto académico. Ciclo de Vida Ágil usando Notion, Trello, Jira y GitHub.
 ## Tecnologías
 - HTML + JS básico (frontend)
 - Pseudocódigo en /backend
-- GitFlow para control de versiones
+- GitFlow para control de version
 
 ## Flujo de desarrollo
 1. Ramas feature por historia de usuario.
